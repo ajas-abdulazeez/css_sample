@@ -6,6 +6,8 @@ body {
     background-position: left top;
     background-attachment: fixed;
     background-size: 100% 80%;
+    box-sizing: border-box;
+    margin: 0;
   }
 
 .header{
