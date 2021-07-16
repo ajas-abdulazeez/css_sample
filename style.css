@@ -102,6 +102,9 @@ body {
     font: normal normal bold 25px Segoe UI;
     letter-spacing: 0px;
     color: #EECCCC;
+    box-sizing: border-box;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 
